@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="说明：界面停留1分钟如果没有任何操,作将直接跳转至视频页面"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16sp" />
+</LinearLayout>
